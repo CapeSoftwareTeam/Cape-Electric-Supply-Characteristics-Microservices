@@ -1,0 +1,16 @@
+2021-08-09T12:01:37.612+0530 INFO Starting SupplyCharacteristicsServiceApplication using Java 15.0.2 on DESKTOP-EQ8CCC7 with PID 824 (C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service\target\classes started by capeelectricsoftware in C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service)
+2021-08-09T12:01:37.614+0530 DEBUG Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-09T12:01:37.614+0530 INFO No active profile set, falling back to default profiles: default
+2021-08-09T12:01:46.963+0530 INFO Started SupplyCharacteristicsServiceApplication in 9.733 seconds (JVM running for 10.578)
+2021-08-09T14:59:03.843+0530 INFO Starting SupplyCharacteristicsServiceApplication using Java 15.0.2 on DESKTOP-EQ8CCC7 with PID 824 (C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service\target\classes started by capeelectricsoftware in C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service)
+2021-08-09T14:59:03.844+0530 DEBUG Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-09T14:59:03.844+0530 INFO No active profile set, falling back to default profiles: default
+2021-08-09T14:59:06.923+0530 INFO Started SupplyCharacteristicsServiceApplication in 3.31 seconds (JVM running for 10648.854)
+2021-08-09T14:59:49.270+0530 INFO Starting SupplyCharacteristicsServiceApplication using Java 15.0.2 on DESKTOP-EQ8CCC7 with PID 824 (C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service\target\classes started by capeelectricsoftware in C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service)
+2021-08-09T14:59:49.270+0530 DEBUG Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-09T14:59:49.270+0530 INFO No active profile set, falling back to default profiles: default
+2021-08-09T14:59:51.373+0530 INFO Started SupplyCharacteristicsServiceApplication in 2.34 seconds (JVM running for 10693.306)
+2021-08-12T10:37:49.960+0530 INFO Starting SupplyCharacteristicsServiceApplication using Java 15.0.2 on DESKTOP-EQ8CCC7 with PID 40600 (C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service\target\classes started by capeelectricsoftware in C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Supply-Characteristics-Microservices\supply-characteristics-service)
+2021-08-12T10:37:49.964+0530 DEBUG Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12T10:37:49.964+0530 INFO No active profile set, falling back to default profiles: default
+2021-08-12T10:37:56.490+0530 INFO Started SupplyCharacteristicsServiceApplication in 7.084 seconds (JVM running for 8.506)
