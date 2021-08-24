@@ -20,3 +20,5 @@
 2021-08-17T15:51:17.579+0530 INFO Started SupplyCharacteristicsServiceApplication in 6.349 seconds (JVM running for 7.456)
 2021-08-17T15:51:50.603+0530 INFO No active profile set, falling back to default profiles: default
 2021-08-17T15:52:00.188+0530 INFO Started SupplyCharacteristicsServiceApplication in 12.674 seconds (JVM running for 13.551)
+2021-08-23T16:48:49.522+0530 INFO No active profile set, falling back to default profiles: default
+2021-08-23T16:48:55.165+0530 INFO Started SupplyCharacteristicsServiceApplication in 7.387 seconds (JVM running for 8.358)
